@@ -41,7 +41,7 @@ To run this project locally, you need to have the following:
 1. **Clone the repository:**
 
    ```bash
-   git clone
+   git clone https://github.com/TPesch/preeda-cocktail-app
    cd preeda-cocktails
    ```
 
